@@ -1,1 +1,1 @@
-# Music streaming serice
+# Music streaming service
